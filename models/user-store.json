@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "firstName": "homer",
+      "lastName": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "marge",
+      "lastName": "simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "Emran",
+      "lastName": "Sabbagh",
+      "email": "emran2156@gmail.com",
+      "password": "Nova6bcw",
+      "id": "84cd9292-59c3-4e67-80c5-3fb5271593b5"
+    },
+    {
+      "firstName": "Emran",
+      "lastName": "Sabbagh",
+      "email": "emran2156@gmail.com",
+      "password": "Nova7bcw",
+      "id": "e2fd436a-592e-4c34-bbaf-3a1bd894cf93"
+    },
+    {
+      "firstName": "Emran",
+      "lastName": "Sabbagh",
+      "email": "emran2155@gmail.com",
+      "password": "Nova6bcw",
+      "id": "be09453a-8fb2-469e-8ce3-e4c58b536af5",
+      "picture": "http://res.cloudinary.com/dmrfhx66y/image/upload/v1585612390/mk1dihyoqkyfk5vs6bxj.jpg"
+    },
+    {
+      "firstName": "Rosanne",
+      "lastName": "Birney",
+      "email": "rb@gmail.com",
+      "password": "Secret1",
+      "id": "f2f62bd6-471c-428b-8b37-0e1287a8187f",
+      "picture": "http://res.cloudinary.com/dmrfhx66y/image/upload/v1585666486/qfflhlczskrhl6jcpnqt.jpg"
+    }
+  ]
+}

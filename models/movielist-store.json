@@ -1,0 +1,24 @@
+{
+  "movielistCollection": [
+    {
+      "id": "36f5c87b-0074-4f80-9db5-ece093db0888",
+      "title": "Die Hard 3",
+      "movies": []
+    },
+    {
+      "id": "4466fec8-00a8-42b0-b572-92ffaff4eb91",
+      "userid": "84cd9292-59c3-4e67-80c5-3fb5271593b5",
+      "title": "Bruce Willis",
+      "picture": "http://res.cloudinary.com/dmrfhx66y/image/upload/v1585611033/b7v0qt766rgbq6njjgvs.jpg",
+      "movies": []
+    },
+    {
+      "id": "d126abba-2cb6-4087-ab43-f9b9892584eb",
+      "userid": "be09453a-8fb2-469e-8ce3-e4c58b536af5",
+      "title": "Bruce Willis",
+      "picture": "http://res.cloudinary.com/dmrfhx66y/image/upload/v1585658606/tsvmzitwzjxnltbtbj0n.jpg",
+      "date": "2020-03-31T12:43:26.697Z",
+      "movies": []
+    }
+  ]
+}

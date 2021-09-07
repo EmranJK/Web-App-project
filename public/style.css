@@ -1,0 +1,41 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: radial-gradient(#e66465, #9198e5);
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+
+#readmore {
+  display: none;
+}
+
+#welcomeuser {
+  display: none;
+}
+
+section
+{
+ background: radial-gradient(ellipse at top, #e66465, transparent),
+            radial-gradient(ellipse at bottom, #4d9f0c, transparent); 
+}
+.name{
+  padding-top:20px;
+  padding-right:5px;
+  line-height:20px;
+  font-weight:bold;
+  text-transform:capitalize;
+}
+
+.profilepic{
+  padding-top:15px;
+  padding-right:5px;
+  line-height:20px;
+  font-weight:bold;
+}

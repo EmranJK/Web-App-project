@@ -1,0 +1,73 @@
+{{> menu}}
+
+<section class="ui two column grid segment" style="background: radial-gradient(ellipse at top, #e66465, transparent),
+            radial-gradient(ellipse at bottom, #4d9f0c, transparent);">
+  <div class="ui column" style="background: radial-gradient(ellipse at top, #e66465, transparent),
+            radial-gradient(ellipse at bottom, #4d9f0c, transparent);">
+    <h1 class="ui header">
+  Welcome to the Movielist App, {{fullname}}!
+</h1>
+      <p>
+        This app will allow users to create and maintain a collection of movielists.
+      </p>
+      <div class="buttons">
+        <button class="ui blue button" onclick="showHide()">
+          Read more <i class="arrow circle right icon"></i>
+        </button>
+        <button class="ui green button" onclick="alert('Thanks! You\'re okay too')">
+          Like it? <i class="thumbs up icon"></i>
+        </button>
+        <button class="ui red button" onclick="welcomeUser()">
+          Who are you? <i class="user icon"></i>
+        </button>
+      </div>
+
+      <div id="readmore" class="ui message" >
+        <p>
+          Over the coming months, we will add CRUD (Create, Read, Update, and Delete) functionality to this app. Users will also be able to create an account, log in, and upload images to the app.
+        </p>  
+      </div>
+      <div id="welcomeuser" class="ui message" onclick="hideWelcome()" > </div>
+    
+    
+    <div class="ui divider"></div>
+
+<h3 class="ui center aligned header">The Movielist App now contains:</h3>
+<div class="ui two statistics">
+    <div class="ui huge statistic">
+        <div class="value">
+            {{totalMovielists}}
+        </div>
+        <div class="label">
+            Movielists
+        </div>
+    </div>
+    <div class="ui huge statistic">
+        <div class="value">
+            {{totalMovies}}
+        </div>
+        <div class="label">
+            Movies
+        </div>
+    </div>
+</div>
+    
+  </div>
+  <div class="ui column" style="background: radial-gradient(ellipse at top, #e66465, transparent),
+            radial-gradient(ellipse at bottom, #4d9f0c, transparent);">
+    <div class="ui grid">
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.com/e77b6548-2eb7-46d9-8895-0a6237ef1822%2Fbf4174dbf5202c888ff2aa1b3f62a51c.jpg?v=1583251379073">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.com/e77b6548-2eb7-46d9-8895-0a6237ef1822%2F268x0w.png?v=1583251132948">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.com/e77b6548-2eb7-46d9-8895-0a6237ef1822%2Fthe-matrix-revolutions-trinity-neo-1566568709.jpeg?v=1583251460735">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.com/e77b6548-2eb7-46d9-8895-0a6237ef1822%2FJohn-wick-chapter-2.jpg?v=1583251515108">
+      </div>
+    </div>
+  </div>
+</section>
