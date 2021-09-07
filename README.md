@@ -1,6 +1,6 @@
-# Assignment 2
+# Web App Project
 
-In this Assignment I am going to add more things to the MovieList App which will give the user the ability to:
+In this Project created a MovieList App which will give the user the ability to:
 
 - Upload an image for the movielist.
 - Comment.
@@ -8,6 +8,6 @@ In this Assignment I am going to add more things to the MovieList App which will
 - Login to his account only with his valid email and password.
 
 
-The app will also have the ability to:
+The app also has the ability to:
 
 - Show the number of movielists and movies currently in the users account.
