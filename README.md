@@ -11,3 +11,4 @@ In this Project created a MovieList App which will give the user the ability to:
 The app also has the ability to:
 
 - Show the number of movielists and movies currently in the users account.
+- To view the app on Glitch, go to the following link: https://assignmentt-2.glitch.me/
